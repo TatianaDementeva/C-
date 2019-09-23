@@ -1,0 +1,22 @@
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.deps.json
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.runtimeconfig.json
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.runtimeconfig.dev.json
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.dll
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.pdb
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.csprojAssemblyReference.cache
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.csproj.CoreCompileInputs.cache
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.AssemblyInfoInputs.cache
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.AssemblyInfo.cs
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.dll
+C:\Users\Gitli\C# and .NET\Task2\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.pdb
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.deps.json
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.runtimeconfig.json
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.runtimeconfig.dev.json
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.dll
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\bin\Debug\netcoreapp2.1\Guesses.pdb
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.csprojAssemblyReference.cache
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.csproj.CoreCompileInputs.cache
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.AssemblyInfoInputs.cache
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.AssemblyInfo.cs
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.dll
+C:\Users\Gitli\C# and .NET\Task2 -\Guesses\Guesses\obj\Debug\netcoreapp2.1\Guesses.pdb
